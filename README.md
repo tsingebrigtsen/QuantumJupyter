@@ -1,2 +1,2 @@
 # QMJupyter
-Modules for teaching basic Quantum Mechanics in combination with D. J. Griffiths: Introduction to Quantum Mechanics
+Modules for teaching Quantum Mechanics in combination with D. J. Griffiths: Introduction to Quantum Mechanics, 3rd edition.
